@@ -1,0 +1,40 @@
+**AQI Analysis Report**
+
+**1. Main Causes**
+
+Based on the AQI reading of 155.6 and pollutant levels, the primary contributors to poor air quality are:
+- High PM10 levels (107.13µg/m³), indicating significant particulate matter in the air.
+- Moderate to high PM2.5 levels (64.4µg/m³), which can further exacerbate respiratory issues.
+Additionally, the moderate levels of NO2 (41.93µg/m³) and CO (2.538ppm) contribute to the overall poor AQI.
+
+**2. Health Effects**
+
+The AQI of 155.6 and associated pollutant levels pose a moderate risk to residents with pre-existing respiratory issues. Health effects may include:
+- Increased risk of respiratory problems, such as coughing and shortness of breath.
+- Potential exacerbation of existing cardiovascular and lung conditions.
+- Discomfort or irritation to eyes, nose, and throat.
+- Increased risk of respiratory infections.
+
+**3. Safety Precautions**
+
+Residents are advised to take the following precautions:
+- Avoid outdoor activities, particularly for sensitive groups such as children, older adults, and people with pre-existing health conditions.
+- Stay indoors with air conditioning or air purifiers when possible.
+- Keep windows and doors closed to prevent pollutants from entering homes.
+- Use masks with a filter rating of HEPA (High-Efficiency Particulate Air) when outdoors.
+
+**4. Pollution Sources**
+
+The following are potential sources of pollutants contributing to poor air quality:
+- Vehicle emissions (NO2, CO, PM2.5, and PM10).
+- Industrial activities (PM2.5, PM10, and SO2).
+- Agricultural burning or other open-burning activities (PM2.5 and PM10).
+- Construction or demolition activities (PM2.5 and PM10).
+
+**5. Improvement Suggestions**
+
+To improve air quality, residents and authorities can implement the following measures:
+- Promote the use of public transportation or carpooling.
+- Encourage the adoption of electric or hybrid vehicles.
+- Implement emission-reducing measures in industrial facilities and agricultural activities.
+- Enforce regulations against open burning or construction activities that release pollutants into the air.
