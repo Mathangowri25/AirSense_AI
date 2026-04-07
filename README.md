@@ -438,22 +438,6 @@ This ensures full compatibility with scikit-learn and all other packages.
                            └────────────────────────────────────┘
 ```
 
----
-
-## 👨‍💻 Team
-
-> B.E. / B.Tech Final Year Project
-> Department of [YOUR DEPARTMENT] — [YOUR COLLEGE NAME] — Batch [YEAR]
-
-| Name | Roll Number | Contribution |
-|---|---|---|
-| **YOUR NAME** | XXXXXXXX | ML Model Development, Streamlit Dashboard, Cloud Deployment |
-| **TEAMMATE 2** | XXXXXXXX | LLM Integration (Groq API), Voice Alert Pipeline (gTTS) |
-| **TEAMMATE 3** | XXXXXXXX | Dataset Collection, EDA, Feature Engineering, Jupyter Notebook |
-
-**Project Guide:** [Guide Name], [Designation], [Department]
-
----
 
 ## 🙏 Acknowledgements
 
