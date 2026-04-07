@@ -3,15 +3,13 @@ import pickle, numpy as np, os, base64, math, io
 import pandas as pd
 from groq import Groq
 from gtts import gTTS
-import os
 from dotenv import load_dotenv
- 
-load_dotenv()
 
-# Access the variables using os.getenv
-GROQ_API_KEY_LLM    = os.getenv("GROK_API")
-GROQ_API_KEY_SPEECH = os.getenv("GROK_SPEECH") # Or a different key if applicable
+load_dotenv()  # Only works locally — ignored in Streamlit Cloud
 
+# Works both locally (.env) and in Streamlit Cloud (Secrets Manager)
+GROQ_API_KEY_LLM    = st.secrets.get("GROK_API")    or os.getenv("GROK_API")
+GROQ_API_KEY_SPEECH = st.secrets.get("GROK_SPEECH") or os.getenv("GROK_SPEECH")
 
 st.set_page_config(page_title="AQI Intelligence", page_icon="🌐",
                    layout="wide", initial_sidebar_state="collapsed")
