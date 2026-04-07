@@ -1,3 +1,11 @@
+# Virtual environments
 env/
 venv/
 node_modules/
+
+# Secret keys - NEVER push this
+.env
+
+# Model files (large files)
+*.pkl
+*.mp3
