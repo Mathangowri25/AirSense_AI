@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https:Your.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://YOUR-APP-LINK.streamlit.app)
 &nbsp;
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=flat&logo=python&logoColor=white)
 &nbsp;
@@ -70,7 +70,7 @@ The entire UI is styled with a custom dark neon/cyberpunk aesthetic using Orbitr
 
 ## 🔗 Live Demo
 
-> 🚀 **[Click here to open the live dashboard]((https://airsenseai-aqi.streamlit.app/))**
+> 🚀 **[Click here to open the live dashboard]([https://YOUR-APP-LINK.streamlit.app](https://airsenseai-aqi.streamlit.app/))**
 
 To try the app:
 1. Download the `AQI_Input_Template.xlsx` from this repo
