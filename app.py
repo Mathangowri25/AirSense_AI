@@ -8,8 +8,8 @@ from dotenv import load_dotenv
 load_dotenv()  # Only works locally — ignored in Streamlit Cloud
 
 # Works both locally (.env) and in Streamlit Cloud (Secrets Manager)
-GROQ_API_KEY_LLM    = st.secrets.get("GROK_API")    or os.getenv("GROK_API")
-GROQ_API_KEY_SPEECH = st.secrets.get("GROK_SPEECH") or os.getenv("GROK_SPEECH")
+GROQ_API_KEY_LLM    =  os.getenv("GROK_API")
+GROQ_API_KEY_SPEECH =  os.getenv("GROK_SPEECH")
 
 st.set_page_config(page_title="AQI Intelligence", page_icon="🌐",
                    layout="wide", initial_sidebar_state="collapsed")
